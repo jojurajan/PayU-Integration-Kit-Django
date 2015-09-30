@@ -12,13 +12,19 @@ Run the command
 
     python manage.py runserver
 
+Via Pip
+
+    pip install git+https://github.com/jojurajan/PayU-Integration-Kit-Django.git
+
 # Configuration
 
 See Installation section
 
 # Author(s)
 
-Ashok Vishwakarma ( avishwakarma at payu dot in )
+Original Author: Ashok Vishwakarma ( avishwakarma at payu dot in )
+
+Updates by: Joju Rajan ( me at jrajan dot in )
 
 # Copyright
 
